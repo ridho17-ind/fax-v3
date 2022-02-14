@@ -1,24 +1,24 @@
 userbot = {
- owner: [ "6282334170916" ],
+ owner: [ "6288805890128" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
-   wait: "tunggu sedang di proses...",
-   error: "errorr!!"
+   wait: "Tunggu Sedang Di Proses...",
+   error: "Eror Banh!!"
    },
    prefix: ["/"],
    gexp: 50,
    limit: 100,
    eror: "Sepertinya Eror",
-   waits: "Sedang di proses",
+   waits: "Sedang Di Proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
-   packname: "RIXLE-BOT OFFICIAL",
-   author: 'Arifi Razzaq',
+   packname: "Flicks Bot",
+   author: 'Skyzo',
     setting: {
-    admin: "only admin",
-    group: "only group",
-    owner: "owner only pack",
-    jadibot: "jadibot only",
-    botadmin: "bot harus menjadi admin",
+    admin: "Only admin",
+    group: "Only group",
+    owner: "Owner only pack",
+    jadibot: "Jadibot only",
+    botadmin: "Bot harus menjadi admin",
     nsfw: "FITUR BELUM DIAKTIFKAN!"
     }
 }
